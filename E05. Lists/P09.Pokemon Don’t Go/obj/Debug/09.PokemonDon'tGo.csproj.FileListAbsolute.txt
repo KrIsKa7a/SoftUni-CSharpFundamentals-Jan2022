@@ -1,8 +1,0 @@
-C:\Users\IG\source\repos\SoftUni-CSharp-Fundamentals\09.PokemonDon'tGo\bin\Debug\09.PokemonDon'tGo.exe.config
-C:\Users\IG\source\repos\SoftUni-CSharp-Fundamentals\09.PokemonDon'tGo\bin\Debug\09.PokemonDon'tGo.exe
-C:\Users\IG\source\repos\SoftUni-CSharp-Fundamentals\09.PokemonDon'tGo\bin\Debug\09.PokemonDon'tGo.pdb
-C:\Users\IG\source\repos\SoftUni-CSharp-Fundamentals\09.PokemonDon'tGo\obj\Debug\09.PokemonDon'tGo.csproj.AssemblyReference.cache
-C:\Users\IG\source\repos\SoftUni-CSharp-Fundamentals\09.PokemonDon'tGo\obj\Debug\09.PokemonDon'tGo.csproj.SuggestedBindingRedirects.cache
-C:\Users\IG\source\repos\SoftUni-CSharp-Fundamentals\09.PokemonDon'tGo\obj\Debug\09.PokemonDon'tGo.csproj.CoreCompileInputs.cache
-C:\Users\IG\source\repos\SoftUni-CSharp-Fundamentals\09.PokemonDon'tGo\obj\Debug\09.PokemonDon'tGo.exe
-C:\Users\IG\source\repos\SoftUni-CSharp-Fundamentals\09.PokemonDon'tGo\obj\Debug\09.PokemonDon'tGo.pdb
