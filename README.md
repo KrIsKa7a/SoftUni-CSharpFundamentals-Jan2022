@@ -8,3 +8,4 @@
 3. [**Arrays**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Jan2022/tree/main/E03.%20Arrays)
 4. [**Methods**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Jan2022/tree/main/E04.%20Methods)
 5. [**Lists**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Jan2022/tree/main/E05.%20Lists)
+6. [**Objects and Classes**](https://github.com/KrIsKa7a/SoftUni-CSharpFundamentals-Jan2022/tree/main/E06.%20Objects%20and%20Classes)
